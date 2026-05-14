@@ -1,0 +1,6 @@
+com\eugene\mcp\model\Movie.class
+com\eugene\mcp\model\Actor.class
+com\eugene\mcp\repo\ActorRepository.class
+com\eugene\mcp\McpApplication.class
+com\eugene\mcp\repo\MovieRepository.class
+com\eugene\mcp\service\MovieService.class
