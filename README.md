@@ -69,7 +69,7 @@ To use this server with an MCP client (e.g., Claude Desktop), add the following 
       "command": "java",
       "args": [
         "-jar",
-        "C:/Users/Eugen/Harry Workspace/git/MovieMCPServer/target/mcp-0.0.1-SNAPSHOT.jar"
+        "<path to file>/mcp-0.0.1-SNAPSHOT.jar"
       ]
     }
   }
